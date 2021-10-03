@@ -1,4 +1,4 @@
-# merge-conflicts
+LOCAL
 Git/github 5 Merge conflicts
 
 This is the Git/Github 5: Merge & Conflicts quests
